@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-pink-500 flex h-16">
+  <header class="bg-gradient-to-r from-pink-500 to-purple-500 flex h-16">
     <div class="w-10 my-auto ml-3">
       <img src="/favicon.ico" />
     </div>
