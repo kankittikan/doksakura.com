@@ -1,7 +1,7 @@
 <template>
   <header class="bg-pink-500 flex h-16">
     <div class="w-10 my-auto ml-3">
-      <img src="https://content.doksakura.com/images/sakura.ico" />
+      <img src="/favicon.ico" />
     </div>
     <NuxtLink to="./" class="text-white px-2 ml-4 hover:bg-pink-400 py-5">Home</NuxtLink>
     <NuxtLink to="minecraft" class="text-white px-2 hover:bg-pink-400 py-5">Minecraft
