@@ -8,6 +8,6 @@
       Server</NuxtLink>
     <NuxtLink to="space" class="text-white px-2 hover:bg-pink-400 py-5">Space</NuxtLink>
     <NuxtLink to="https://access.doksakura.com" target="_blank" class="text-white px-2 hover:bg-pink-400 py-5">Access</NuxtLink>
-    <NuxtLink to="https://vault.doksakura.com" target="_blank" class="text-white px-2 hover:bg-pink-400 py-5">Vault</NuxtLink>
+    <NuxtLink to="http://vault.doksakura.com:30817" target="_blank" class="text-white px-2 hover:bg-pink-400 py-5">Vault</NuxtLink>
   </header>
 </template>
