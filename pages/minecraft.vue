@@ -10,7 +10,7 @@
 
         <ul class='flex items-center animate-bounce'>
           <li class="font-bold">
-            IP: tunnel.doksakura.com:26655
+            IP: vault.doksakura.com:30812
           </li>
         </ul>
       </nav>
