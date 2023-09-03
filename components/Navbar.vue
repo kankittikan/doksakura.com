@@ -8,6 +8,8 @@
     <NuxtLink to="minecraft" class="text-white px-2 hover:bg-pink-400 py-5" @click="playSound">Minecraft</NuxtLink>
     <NuxtLink to="space" class="text-white px-2 hover:bg-pink-400 py-5" @click="playSound">Space</NuxtLink>
     <NuxtLink to="https://access.doksakura.com" target="_blank" class="text-white px-2 hover:bg-pink-400 py-5" @click="playSound">Access</NuxtLink>
+    <NuxtLink to="https://content.doksakura.com" target="_blank" class="text-white px-2 hover:bg-pink-400 py-5" @click="playSound">Content</NuxtLink>
+
   </header>
 </template>  
 
